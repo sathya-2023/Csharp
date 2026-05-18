@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/01-CoreSyntax/">
+    <Project Path="01-CoreSyntax/Exercise-01/Exercise-01.csproj" />
+  </Folder>
+</Solution>
