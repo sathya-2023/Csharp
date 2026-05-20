@@ -1,5 +1,12 @@
 <Solution>
   <Folder Name="/01-CoreSyntax/">
     <Project Path="01-CoreSyntax/Exercise-01/Exercise-01.csproj" />
+    <Project Path="01-CoreSyntax/Exercise-02/Exercise-02.csproj" />
+  </Folder>
+  <Folder Name="/02-SimpleConsoleApps/" />
+  <Folder Name="/02-SimpleConsoleApps/01-CallMethods/">
+    <Project Path="02-SimpleConsoleApps/01-CallMethods/Exercise-01/Exercise-01.csproj" />
+    <Project Path="02-SimpleConsoleApps/01-CallMethods/Exercise-02/Exercise-02.csproj" />
+    <Project Path="02-SimpleConsoleApps/01-CallMethods/Exercise-03/Exercise-03.csproj" />
   </Folder>
 </Solution>
