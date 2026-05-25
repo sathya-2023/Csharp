@@ -9,4 +9,14 @@
     <Project Path="02-SimpleConsoleApps/01-CallMethods/Exercise-02/Exercise-02.csproj" />
     <Project Path="02-SimpleConsoleApps/01-CallMethods/Exercise-03/Exercise-03.csproj" />
   </Folder>
+  <Folder Name="/02-SimpleConsoleApps/02-DecisionLogics/">
+    <Project Path="02-SimpleConsoleApps/02-DecisionLogics/Exercise-2.1/Exercise-2.1.csproj" />
+    <Project Path="02-SimpleConsoleApps/02-DecisionLogics/Exercise-2.2/Exercise-2.2.csproj" />
+    <Project Path="02-SimpleConsoleApps/02-DecisionLogics/Exercise-2.3/Exercise-2.3.csproj" />
+  </Folder>
+  <Folder Name="/02-SimpleConsoleApps/03-Arrayforeach/">
+    <Project Path="02-SimpleConsoleApps/03-Arrayforeach/Exercise-3.1/Exercise-3.1.csproj" />
+    <Project Path="02-SimpleConsoleApps/03-Arrayforeach/Exercise-3.2/Exercise-3.2.csproj" />
+    <Project Path="02-SimpleConsoleApps/03-Arrayforeach/Exercise-3.3/Exercise-3.3.csproj" />
+  </Folder>
 </Solution>
